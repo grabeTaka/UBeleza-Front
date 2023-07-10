@@ -1,5 +1,5 @@
-# Love-Beauty-Front
-This repository contains two vue.js projects, which make up my undergraduate work. They are used by establishment professionals and their administrators.
+#UBeleza Front
+This repository contains two vue.js projects, which make up my undergraduate work. They are used by establishment professionals and their administrators to management your products, schedules, prices and more
 
 ## Take a look at the application
 ![Alt Text](https://media.giphy.com/media/SsxK1vDHpjRO87A5u3/giphy.gif)
